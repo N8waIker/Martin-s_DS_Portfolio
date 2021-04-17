@@ -1,8 +1,6 @@
 # Martin's Data Science Portfolio
-Name: Martin Christoph
-Adress: 64291 Darmstadt
-E-Mail: martin.darmstadt@yahoo.de
-Tel.: 01575-5809291
+Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-5809291 ![image](https://user-images.githubusercontent.com/78095565/115109705-b6b26000-9f77-11eb-8383-61e9c3dfee5e.png)
+
 
 # [Project 1 Classification Project | Titanic - Machine Learning from Disaster](https://www.kaggle.com/n8walker/classification-project-stackedmodel-for-beginner)
 - Model which predicts which passengers survived the Titanic shipwreck 
