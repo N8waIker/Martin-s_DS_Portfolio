@@ -1,5 +1,8 @@
 # Martin's Data Science Portfolio
-Portfolio of solved Data Science Projects
+Name: Martin Christoph
+Adress: 64291 Darmstadt
+E-Mail: martin.darmstadt@yahoo.de
+Tel.: 01575-5809291
 
 # [Project 1 Classification Project | Titanic - Machine Learning from Disaster](https://www.kaggle.com/n8walker/classification-project-stackedmodel-for-beginner)
 - Model which predicts which passengers survived the Titanic shipwreck 
@@ -13,7 +16,7 @@ Portfolio of solved Data Science Projects
 - Extensive feature engineering with 79 features!
 - Stacked Model via XgBoost, Lasso and ElasticNet Regression
 
-![image](https://user-images.githubusercontent.com/78095565/115109390-cfba1180-9f75-11eb-9b9e-3328f05996c1.png)
+![image](https://user-images.githubusercontent.com/78095565/115109454-190a6100-9f76-11eb-93f4-d446993db1e7.png)
 
 # [Project 3 NLP Project | NLP with disaster Tweets](https://www.kaggle.com/n8walker/nlp-project-embedding-stacking)
 - Model which predicts whether a Twitter tweet is about a real occuring disaster or not
