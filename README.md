@@ -22,3 +22,10 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 - Stacked Model with 3 layers!
 
 ![image](https://user-images.githubusercontent.com/78095565/115109765-02fda000-9f78-11eb-9a66-cbd3a80c8a14.png)
+
+# [Project 4 Computer Vision Project | Digit Recognizer](https://www.kaggle.com/n8walker/computer-vision-project-tpu-keras-own-digits)
+- Model which predicts hand-written digits
+- Keras Neural Network Building
+- implemented real life written digits by myself
+
+![image](https://user-images.githubusercontent.com/78095565/115378568-f9bb4000-a1d0-11eb-87f5-04bd7bd4c99e.png)
