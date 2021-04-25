@@ -29,3 +29,10 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 - implemented real life written digits by myself
 
 ![image](https://user-images.githubusercontent.com/78095565/115378568-f9bb4000-a1d0-11eb-87f5-04bd7bd4c99e.png)
+
+# [Project 5 Computer Vision Project | Flower Classification](https://www.kaggle.com/n8walker/computer-vision-project-tpu-densenet201?scriptVersionId=60915990)
+- Model which predicts flower type based on regular taken pictures
+- Implemented TPU and DenseNet
+- Data in TensorflowDataset shape
+
+![image](https://user-images.githubusercontent.com/78095565/116007982-b4ed3a00-a612-11eb-8f58-d9eef92acdcf.png)
