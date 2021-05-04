@@ -42,7 +42,14 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 
 ![image](https://user-images.githubusercontent.com/78095565/116007982-b4ed3a00-a612-11eb-8f58-d9eef92acdcf.png)
 
-# Project 6 Computer Vision Project | Pneumonia Classification (in progress)
+# [Project 6 Computer Vision Project | Malaria Classification](https://www.kaggle.com/n8walker/computer-vision-project-gpu-tensorflowdataset)
+- Tensorflow Dataset
+- Advanced data augmentation
+- 82% accuracy
+
+![image.png](attachment:9e3c7b36-f42d-46e9-9aa3-09463d69dea7.png)
+
+# Project 7 Computer Vision Project | Pneumonia Classification (in progress)
 - 80% accuracy (so far)
 
 ![image](https://user-images.githubusercontent.com/78095565/116815821-9aa9e380-ab5f-11eb-9896-ffbaea54c3ed.png)
