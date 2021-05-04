@@ -47,7 +47,7 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 - Advanced data augmentation
 - 82% accuracy
 
-![image.png](attachment:9e3c7b36-f42d-46e9-9aa3-09463d69dea7.png)
+![image](https://user-images.githubusercontent.com/78095565/116999430-e4b9d300-acdf-11eb-98c4-c67f548abfb9.png)
 
 # Project 7 Computer Vision Project | Pneumonia Classification (in progress)
 - 80% accuracy (so far)
