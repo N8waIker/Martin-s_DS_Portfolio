@@ -47,11 +47,17 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 - Advanced data augmentation
 - 82% accuracy
 
-![image](https://user-images.githubusercontent.com/78095565/116999430-e4b9d300-acdf-11eb-98c4-c67f548abfb9.png)
+![image](https://user-images.githubusercontent.com/78095565/117273677-a4cc2a80-ae5c-11eb-8a05-e65426671d8a.png)
 
 # Project 7 Computer Vision Project | Pneumonia Classification (in progress)
 - 80% accuracy (so far)
 
 ![image](https://user-images.githubusercontent.com/78095565/116815821-9aa9e380-ab5f-11eb-9896-ffbaea54c3ed.png)
+
+# Project 8 Object Detection Project | Finger Sign Detector (in progess)
+-real time detection of trained hand signs (peace, greetings...)
+
+![image](https://user-images.githubusercontent.com/78095565/117274036-f83e7880-ae5c-11eb-9c47-4b8b6f3b7fb6.png)
+
 
 
