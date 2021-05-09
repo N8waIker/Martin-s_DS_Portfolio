@@ -54,10 +54,12 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 
 ![image](https://user-images.githubusercontent.com/78095565/116815821-9aa9e380-ab5f-11eb-9896-ffbaea54c3ed.png)
 
-# Project 8 Object Detection Project | Finger Sign Detector (in progess)
--real time detection of trained hand signs (peace, greetings...)
+# Project 8 Object Detection Project | Real Time Finger Sign Detector
+- real time detection of trained hand signs (thumbs up/ down, greetings...)
+- precision=70%, recall=73%
+- Tensorflow Object Detection API
 
-![image](https://user-images.githubusercontent.com/78095565/117274036-f83e7880-ae5c-11eb-9c47-4b8b6f3b7fb6.png)
+![image](https://user-images.githubusercontent.com/78095565/117583647-a0c43500-b108-11eb-908e-f4644ca7ad0b.png)
 
 
 
