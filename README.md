@@ -43,6 +43,7 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 ![image](https://user-images.githubusercontent.com/78095565/116007982-b4ed3a00-a612-11eb-8f58-d9eef92acdcf.png)
 
 # [Project 6 Computer Vision Project | Malaria Classification](https://www.kaggle.com/n8walker/computer-vision-project-gpu-tensorflowdataset)
+
 - Tensorflow Dataset
 - Advanced data augmentation
 - 82% accuracy
@@ -54,12 +55,15 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 
 ![image](https://user-images.githubusercontent.com/78095565/116815821-9aa9e380-ab5f-11eb-9896-ffbaea54c3ed.png)
 
-# Project 8 Object Detection Project | Real Time Finger Sign Detector
-- real time detection of trained hand signs (thumbs up/ down, greetings...)
-- precision=70%, recall=73%
+# Project 8 Object Detection Project | Real Time Finger Mask Detection
+- real time detection of people wearing mask or not (including wrong usage of mask)
+- precision=78%, recall=78%
 - Tensorflow Object Detection API
 
-![image](https://user-images.githubusercontent.com/78095565/117583647-a0c43500-b108-11eb-908e-f4644ca7ad0b.png)
+https://user-images.githubusercontent.com/78095565/117764499-dbbf8900-b22c-11eb-9272-911178549097.mp4
+
+
+
 
 
 
