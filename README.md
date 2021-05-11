@@ -60,7 +60,7 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 - precision=78%, recall=78%
 - Tensorflow Object Detection API
 
-https://user-images.githubusercontent.com/78095565/117764499-dbbf8900-b22c-11eb-9272-911178549097.mp4
+![image](https://user-images.githubusercontent.com/78095565/117789501-b3458800-b248-11eb-8b70-65ec30db5942.png)
 
 
 
