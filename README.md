@@ -55,7 +55,7 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 
 ![image](https://user-images.githubusercontent.com/78095565/116815821-9aa9e380-ab5f-11eb-9896-ffbaea54c3ed.png)
 
-# Project 8 Object Detection Project | Real Time Finger Mask Detection
+# Project 8 Object Detection Project | Real Time Mask Detection
 - real time detection of people wearing mask or not (including wrong usage of mask)
 - precision=78%, recall=78%
 - Tensorflow Object Detection API
