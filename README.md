@@ -66,7 +66,7 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 -real time detection of number plates
 -real time translation of number plates into excel file
 
-![image](https://user-images.githubusercontent.com/78095565/118353831-77703280-b568-11eb-83ae-bac206a40c85.png)
+![image](https://user-images.githubusercontent.com/78095565/118353921-cd44da80-b568-11eb-9c6f-297b82719dc6.png)
 
 
 
