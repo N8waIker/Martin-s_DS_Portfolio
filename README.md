@@ -70,7 +70,11 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 
 ![image](https://user-images.githubusercontent.com/78095565/118353921-cd44da80-b568-11eb-9c6f-297b82719dc6.png)
 
+# Project 10 Object Detectioin | Real Time Body Posture Detection
+- real time detection of trained body postures (sitting, standing, fighting...)
+- based on Google MediaPipe
 
+![image](https://user-images.githubusercontent.com/78095565/118354981-f87df880-b56d-11eb-85bd-a56906327a32.png)
 
 
 
