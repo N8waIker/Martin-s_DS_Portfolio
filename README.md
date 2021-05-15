@@ -58,13 +58,15 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 # Project 8 Object Detection | Real Time Mask Detection
 - real time detection of people wearing mask or not (including wrong usage of mask)
 - precision=78%, recall=78%
+- based on 30 labeled images
 - Tensorflow Object Detection API
 
 ![image](https://user-images.githubusercontent.com/78095565/117789501-b3458800-b248-11eb-8b70-65ec30db5942.png)
 
 # Project 9 Object Detectioin | Real Time Number Plate Detection
--real time detection of number plates
--real time translation of number plates into excel file
+- real time detection of number plates
+- real time translation of number plates into excel file
+- based on Kaggle number plate dataset
 
 ![image](https://user-images.githubusercontent.com/78095565/118353921-cd44da80-b568-11eb-9c6f-297b82719dc6.png)
 
