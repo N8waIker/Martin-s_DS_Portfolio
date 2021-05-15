@@ -61,7 +61,7 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 - based on 30 labeled images
 - Tensorflow Object Detection API
 
-![image](https://user-images.githubusercontent.com/78095565/117789501-b3458800-b248-11eb-8b70-65ec30db5942.png)
+![image](https://user-images.githubusercontent.com/78095565/118355167-f7999680-b56e-11eb-81d1-5ce297fc9e39.png)
 
 # [Project 9 Object Detectioin | Real Time Number Plate Detection](https://github.com/N8waIker/NumberPlateDetection)
 - real time detection of number plates
