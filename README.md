@@ -26,7 +26,7 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 
 ![image](https://user-images.githubusercontent.com/78095565/115109765-02fda000-9f78-11eb-9a66-cbd3a80c8a14.png)
 
-# [Project 4 Computer Vision | Digit Recognizer](https://www.kaggle.com/n8walker/computer-vision-project-tpu-keras-own-digits)
+# [Project 4 Image Classification | Digit Recognizer](https://www.kaggle.com/n8walker/computer-vision-project-tpu-keras-own-digits)
 - Model which predicts hand-written digits
 - Keras Neural Network Building
 - implemented real life written digits by myself
@@ -34,7 +34,7 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 
 ![image](https://user-images.githubusercontent.com/78095565/115378568-f9bb4000-a1d0-11eb-87f5-04bd7bd4c99e.png)
 
-# [Project 5 Computer Vision | Flower Classification](https://www.kaggle.com/n8walker/computer-vision-project-tpu-densenet201?scriptVersionId=60915990)
+# [Project 5 Image Classification | Flower Classification](https://www.kaggle.com/n8walker/computer-vision-project-tpu-densenet201?scriptVersionId=60915990)
 - Model which predicts flower type based on regular taken pictures
 - Implemented TPU and DenseNet
 - Data in TensorflowDataset shape
@@ -42,7 +42,7 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 
 ![image](https://user-images.githubusercontent.com/78095565/116007982-b4ed3a00-a612-11eb-8f58-d9eef92acdcf.png)
 
-# [Project 6 Computer Vision | Malaria Classification](https://www.kaggle.com/n8walker/computer-vision-project-gpu-tensorflowdataset)
+# [Project 6 Image Classification | Malaria Classification](https://www.kaggle.com/n8walker/computer-vision-project-gpu-tensorflowdataset)
 
 - Tensorflow Dataset
 - Advanced data augmentation
@@ -50,12 +50,12 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 
 ![image](https://user-images.githubusercontent.com/78095565/117273677-a4cc2a80-ae5c-11eb-8a05-e65426671d8a.png)
 
-# Project 7 Computer Vision | Pneumonia Classification (in progress)
+# Project 7 Image Classification | Pneumonia Classification (in progress)
 - 80% accuracy (so far)
 
 ![image](https://user-images.githubusercontent.com/78095565/116815821-9aa9e380-ab5f-11eb-9896-ffbaea54c3ed.png)
 
-# Project 8 Object Detection | Real Time Mask Detection
+# [Project 8 Object Detection | Real Time Mask Detection](https://github.com/N8waIker/MaskDetection)
 - real time detection of people wearing mask or not (including wrong usage of mask)
 - precision=78%, recall=78%
 - based on 30 labeled images
@@ -63,14 +63,14 @@ Martin Christoph | 64291 Darmstadt | martin.darmstadt@yahoo.de | +49 1575-580929
 
 ![image](https://user-images.githubusercontent.com/78095565/117789501-b3458800-b248-11eb-8b70-65ec30db5942.png)
 
-# Project 9 Object Detectioin | Real Time Number Plate Detection
+# [Project 9 Object Detectioin | Real Time Number Plate Detection](https://github.com/N8waIker/NumberPlateDetection)
 - real time detection of number plates
 - real time translation of number plates into excel file
 - based on Kaggle number plate dataset
 
 ![image](https://user-images.githubusercontent.com/78095565/118353921-cd44da80-b568-11eb-9c6f-297b82719dc6.png)
 
-# Project 10 Object Detectioin | Real Time Body Posture Detection
+# [Project 10 Object Detectioin | Real Time Body Posture Detection](https://github.com/N8waIker/PostureDetection)
 - real time detection of trained body postures (sitting, standing, fighting...)
 - based on Google MediaPipe
 
